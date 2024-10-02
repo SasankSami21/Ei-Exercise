@@ -1,0 +1,14 @@
+C:\Users\NANI\Desktop\Structural\bin\Debug\net8.0\Structural.exe
+C:\Users\NANI\Desktop\Structural\bin\Debug\net8.0\Structural.deps.json
+C:\Users\NANI\Desktop\Structural\bin\Debug\net8.0\Structural.runtimeconfig.json
+C:\Users\NANI\Desktop\Structural\bin\Debug\net8.0\Structural.dll
+C:\Users\NANI\Desktop\Structural\bin\Debug\net8.0\Structural.pdb
+C:\Users\NANI\Desktop\Structural\obj\Debug\net8.0\Structural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NANI\Desktop\Structural\obj\Debug\net8.0\Structural.AssemblyInfoInputs.cache
+C:\Users\NANI\Desktop\Structural\obj\Debug\net8.0\Structural.AssemblyInfo.cs
+C:\Users\NANI\Desktop\Structural\obj\Debug\net8.0\Structural.csproj.CoreCompileInputs.cache
+C:\Users\NANI\Desktop\Structural\obj\Debug\net8.0\Structural.dll
+C:\Users\NANI\Desktop\Structural\obj\Debug\net8.0\refint\Structural.dll
+C:\Users\NANI\Desktop\Structural\obj\Debug\net8.0\Structural.pdb
+C:\Users\NANI\Desktop\Structural\obj\Debug\net8.0\Structural.genruntimeconfig.cache
+C:\Users\NANI\Desktop\Structural\obj\Debug\net8.0\ref\Structural.dll

@@ -1,0 +1,14 @@
+c:\Users\NANI\Desktop\.Net\bin\Debug\net8.0\.Net.exe
+c:\Users\NANI\Desktop\.Net\bin\Debug\net8.0\.Net.deps.json
+c:\Users\NANI\Desktop\.Net\bin\Debug\net8.0\.Net.runtimeconfig.json
+c:\Users\NANI\Desktop\.Net\bin\Debug\net8.0\.Net.dll
+c:\Users\NANI\Desktop\.Net\bin\Debug\net8.0\.Net.pdb
+c:\Users\NANI\Desktop\.Net\obj\Debug\net8.0\.Net.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\NANI\Desktop\.Net\obj\Debug\net8.0\.Net.AssemblyInfoInputs.cache
+c:\Users\NANI\Desktop\.Net\obj\Debug\net8.0\.Net.AssemblyInfo.cs
+c:\Users\NANI\Desktop\.Net\obj\Debug\net8.0\.Net.csproj.CoreCompileInputs.cache
+c:\Users\NANI\Desktop\.Net\obj\Debug\net8.0\.Net.dll
+c:\Users\NANI\Desktop\.Net\obj\Debug\net8.0\refint\.Net.dll
+c:\Users\NANI\Desktop\.Net\obj\Debug\net8.0\.Net.pdb
+c:\Users\NANI\Desktop\.Net\obj\Debug\net8.0\.Net.genruntimeconfig.cache
+c:\Users\NANI\Desktop\.Net\obj\Debug\net8.0\ref\.Net.dll

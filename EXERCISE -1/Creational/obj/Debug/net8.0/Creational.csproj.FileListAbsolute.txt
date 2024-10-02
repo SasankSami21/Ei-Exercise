@@ -1,0 +1,14 @@
+C:\Users\NANI\Desktop\Creational\bin\Debug\net8.0\Creational.exe
+C:\Users\NANI\Desktop\Creational\bin\Debug\net8.0\Creational.deps.json
+C:\Users\NANI\Desktop\Creational\bin\Debug\net8.0\Creational.runtimeconfig.json
+C:\Users\NANI\Desktop\Creational\bin\Debug\net8.0\Creational.dll
+C:\Users\NANI\Desktop\Creational\bin\Debug\net8.0\Creational.pdb
+C:\Users\NANI\Desktop\Creational\obj\Debug\net8.0\Creational.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NANI\Desktop\Creational\obj\Debug\net8.0\Creational.AssemblyInfoInputs.cache
+C:\Users\NANI\Desktop\Creational\obj\Debug\net8.0\Creational.AssemblyInfo.cs
+C:\Users\NANI\Desktop\Creational\obj\Debug\net8.0\Creational.csproj.CoreCompileInputs.cache
+C:\Users\NANI\Desktop\Creational\obj\Debug\net8.0\Creational.dll
+C:\Users\NANI\Desktop\Creational\obj\Debug\net8.0\refint\Creational.dll
+C:\Users\NANI\Desktop\Creational\obj\Debug\net8.0\Creational.pdb
+C:\Users\NANI\Desktop\Creational\obj\Debug\net8.0\Creational.genruntimeconfig.cache
+C:\Users\NANI\Desktop\Creational\obj\Debug\net8.0\ref\Creational.dll

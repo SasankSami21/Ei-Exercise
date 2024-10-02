@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QmmJ2z8YIMw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NANI\\Desktop\\Exercise-2\\Exercise-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NANI\\.nuget\\packages\\nlog\\5.3.4\\nlog.5.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}
